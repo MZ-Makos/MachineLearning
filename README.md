@@ -4,3 +4,5 @@ Machine Learning in Python:
 2. Image Processing 
 3. Logistic Regression 
 4. Evaluation and Multi-Layer Perceptron
+5. Wide and deep network architectures
+

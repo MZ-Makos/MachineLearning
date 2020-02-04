@@ -5,4 +5,5 @@ Machine Learning in Python:
 3. Logistic Regression 
 4. Evaluation and Multi-Layer Perceptron
 5. Wide and deep network architectures
-
+6. CNN
+7. RNN
